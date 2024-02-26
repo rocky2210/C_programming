@@ -34,11 +34,12 @@ int main(){
 }
 
 /*
-Size of variable a = 4
-Size of variable b = 2
-Size of variable c = 8
-Value of a is 4
-*ptr is 4.
-Value of b is 30
-Value of b is 20
+    Output:
+        Size of variable a = 4
+        Size of variable b = 2
+        Size of variable c = 8
+        Value of a is 4
+        *ptr is 4.
+        Value of b is 30
+        Value of b is 20
 */

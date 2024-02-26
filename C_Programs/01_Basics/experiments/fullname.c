@@ -8,6 +8,8 @@ int main(){
     return 0;
 }
 
-/* Output:  Enter a fullname: rocky
-            Your name : rocky
+/* 
+    Output  
+        Enter a fullname: rocky
+        Your name : rocky
 */

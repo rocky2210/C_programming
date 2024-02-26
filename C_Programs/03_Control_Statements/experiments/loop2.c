@@ -17,18 +17,19 @@ int main(){
     return 0;
 }
 
-// Output
+
 /*
-    Enter number of time to exe: 5
-    Value: 10
-    Value: 20
-    Value: 30
-    Value: 40
-    Value: 50
-    I am from for loop
-    value = 5
-    value = 10
-    value = 15
-    value = 20
-    value = 25
+    Output:
+        Enter number of time to exe: 5
+        Value: 10
+        Value: 20
+        Value: 30
+        Value: 40
+        Value: 50
+        I am from for loop
+        value = 5
+        value = 10
+        value = 15
+        value = 20
+        value = 25
 */

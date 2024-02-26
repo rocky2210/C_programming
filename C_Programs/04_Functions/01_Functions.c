@@ -1,3 +1,10 @@
+// Functions 
+
+/*
+    Functions:
+        Functions in C are blocks of code that perform a specific task and can be called from other parts of the program.
+*/
+
 #include <stdio.h>
 
 // creating a function

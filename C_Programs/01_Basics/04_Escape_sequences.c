@@ -8,7 +8,7 @@
 
 /*
 	Escape sequence
-		\n new like
+		\n new line
 		\t horizontal tab
 		\b backspace
 		\r carriage return
@@ -44,3 +44,21 @@ int main(){
 
 	return 0;    
 }
+
+/*
+	Output:
+		New line 
+		new line
+				horizontal tab
+		Watch this is back space
+		carriagereturn
+		audiable bell 
+		'single quotation'
+		"Double quotation"
+		Question mark?back slash \
+		Form feed
+
+				Vertical tab
+		octal: Hello
+		hexadecimal: Hello
+*/

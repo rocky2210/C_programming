@@ -20,12 +20,12 @@ int main(){
     }
 }
 
-// Output
 /*
-    + => addition
-    - =>subtraction
-    Enter your choice(+ or -): +
-    Enter values for x & y: 1
-    2
-    Add  x & y =3
+    Output:
+        + => addition
+        - =>subtraction
+        Enter your choice(+ or -): +
+        Enter values for x & y: 1
+        2
+        Add  x & y =3
 */

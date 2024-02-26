@@ -10,7 +10,8 @@ int main(){
 }
 
 /*
-Logical AND : 1
-Logical OR : 1
-Logical NOT : 0
+    Output:
+        Logical AND : 1
+        Logical OR : 1
+        Logical NOT : 0
 */

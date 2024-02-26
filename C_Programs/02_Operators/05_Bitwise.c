@@ -29,16 +29,17 @@ int main(){
 }
 
 /*
-AND Output = 8
-OR Output = 29
-XOR Output = 21
-Complement Output = 11
-x << 1 = 24
-x >> 1 = 6
-Right shift by 0: 212
-Right shift by 1: 106
-Right shift by 2: 53
-Left shift by 0 : 212
-Left shift by 1 : 424
-Left shift by 2 : 848
+    Output:
+        AND Output = 8
+        OR Output = 29
+        XOR Output = 21
+        Complement Output = 11
+        x << 1 = 24
+        x >> 1 = 6
+        Right shift by 0: 212
+        Right shift by 1: 106
+        Right shift by 2: 53
+        Left shift by 0 : 212
+        Left shift by 1 : 424
+        Left shift by 2 : 848
 */

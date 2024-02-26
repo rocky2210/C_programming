@@ -13,5 +13,7 @@ int main(){
     return 0;
 }
 
-// Output
-// I am from do..while
+/* 
+    Output:
+        I am from do..while
+*/

@@ -1,3 +1,12 @@
+// Switch case
+
+/*
+    Switch case:
+        The switch statement in C is a control flow statement that allows you to select one of many code blocks to be 
+        executed based on the value of a variable or expression. It's an alternative to using multiple if-else if statements 
+        when you have a series of conditions to evaluate.
+*/
+
 #include <stdio.h>
 int main(){
 
@@ -31,5 +40,7 @@ int main(){
     return 0;
 }
 
-// Output
-// Thursday
+/*
+    Output:
+        Thursday
+*/

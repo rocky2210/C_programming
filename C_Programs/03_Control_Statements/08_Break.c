@@ -1,3 +1,10 @@
+// Break statement
+
+/*
+    Break statement:
+        The break statement in C is a control flow statement that is used to exit or terminate the current loop or switch statement.
+*/
+
 #include <stdio.h>
 int main(){
 
@@ -12,17 +19,17 @@ int main(){
     return 0;
 }
 
-// Output
 /*
-    10
-    11
-    12
-    13
-    14
-    15
-    16
-    17
-    18
-    19
-    20
+    Output:
+        10
+        11
+        12
+        13
+        14
+        15
+        16
+        17
+        18
+        19
+        20
 */

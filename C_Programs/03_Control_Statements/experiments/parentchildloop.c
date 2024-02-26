@@ -12,16 +12,16 @@ int main(){
     return 0;
 }
 
-// Output
 /*
--------------------------
-I am from parent: 0
-I am from child: 0
-I am from child: 1
-----------------------------
--------------------------
-I am from parent: 1
-I am from child: 0
-I am from child: 1
-----------------------------
+    Output:
+        -------------------------
+        I am from parent: 0
+        I am from child: 0
+        I am from child: 1
+        ----------------------------
+        -------------------------
+        I am from parent: 1
+        I am from child: 0
+        I am from child: 1
+        ----------------------------
 */

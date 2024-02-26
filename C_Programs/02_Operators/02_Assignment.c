@@ -27,14 +27,15 @@ int main(){
 }
 
 /*
-addition assignment : 10
-subtraction assignment : 5
-multiplication assignment : 25
-division assignment : 5
-modulus assignment : 0
-Left shift assignment : 40
-Right shift assignment : 0
-Bitwise-AND assignment : 1
-Bitwise-exclusive-XOR assignment : 6
-Bitwise-inclusive-OR assignment : 7
+    Output:
+        addition assignment : 10
+        subtraction assignment : 5
+        multiplication assignment : 25
+        division assignment : 5
+        modulus assignment : 0
+        Left shift assignment : 40
+        Right shift assignment : 0
+        Bitwise-AND assignment : 1
+        Bitwise-exclusive-XOR assignment : 6
+        Bitwise-inclusive-OR assignment : 7
 */

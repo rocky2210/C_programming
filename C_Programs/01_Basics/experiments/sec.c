@@ -10,3 +10,13 @@ int main(){
     printf("Inter = %d ch = %c fl = %f",x,c,f);
     return 0;
 }
+
+// Bug code 
+
+/*
+    Output:
+        Enter the values : 1
+        d
+        Inter = 1 ch =
+        fl = 0.000000
+*/

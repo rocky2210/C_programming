@@ -27,16 +27,16 @@ int main(){
     }
 }
 
-// Output
 /*
-    1 => addition
-    2=>subtraction
-    3. ExitEnter your choice(+ or -): 1
-    Enter values for x & y: 2
-    3
-    Add  x & y =5
+    Output:
+        1 => addition
+        2=>subtraction
+        3. ExitEnter your choice(+ or -): 1
+        Enter values for x & y: 2
+        3
+        Add  x & y =5
 
-    1 => addition
-    2=>subtraction
-    3. ExitEnter your choice(+ or -):
+        1 => addition
+        2=>subtraction
+        3. ExitEnter your choice(+ or -):
 */

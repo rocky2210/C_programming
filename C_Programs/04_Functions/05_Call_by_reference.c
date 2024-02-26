@@ -7,6 +7,11 @@
     To pass a value by reference, argument pointers are passed to the functions just like
     any other value.
 
+    there's no native support for pass-by-reference like in C++. However, you can achieve 
+    similar behavior using pointers. When you pass a pointer to a function, you're essentially 
+    passing a reference to the original variable, allowing the function to modify the original 
+    variable's value. This is commonly referred to as "call by reference" in C.
+
 */
 
 #include <stdio.h>

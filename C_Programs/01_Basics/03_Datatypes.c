@@ -67,3 +67,35 @@ int main(){
 
 // c does not have buildin bool datatype
 
+/*
+    Output:
+        Integer : 10
+        Character : c
+        Float : 3.140000
+        Double : 10.098234
+        --------------------
+
+        ******* sizeof integer datatypes *******
+
+        size of int: 4 bytes
+        size of short int: 2 bytes
+        size of unsigned int: 4 bytes
+        size of long int: 8 bytes
+        size of long long int: 8 bytes
+        size of unsigned long int: 8 bytes
+        size of unsigned long long int: 8 bytes
+
+        ******* sizeof float datatype *******
+        size of float 4 bytes
+
+        ******* sizeof double datatypes *******
+
+        size of double 8 bytes
+        size of long double 16 bytes
+
+        ******* sizeof char datatypes *******
+
+        size of char 1 bytes
+        size of signed char 1 bytes
+        size of unsigned char 1 bytes
+*/

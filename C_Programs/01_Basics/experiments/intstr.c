@@ -17,3 +17,9 @@ int main(){
 
     return 0;
 }
+
+/*
+    Output:
+        Enter a value: 15.5 
+        x value in string: 15.500000
+*/

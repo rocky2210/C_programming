@@ -24,6 +24,14 @@ int main(){
     
 }
 
+/*
+    Output:
+        size of operator: 4
+        Value of a is 10
+        Hello world
+        Value of pi is 3.140000
+*/
+
 // single line comment
 
 /*

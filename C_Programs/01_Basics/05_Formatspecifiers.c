@@ -48,3 +48,28 @@ int main(){
 
     return 0;
 }
+
+/*
+    Output:
+        -----------------------------
+        Value of a : 20
+        Value of b : 20
+        Value of c : 100
+        Value of d : a
+        Value of d : A
+        Value of e : 3.400000
+        Value of f : 3.000000e+00
+        Value of f : 3.000000E+00
+        Value of g : 3.8
+        Value of h : 0x7ffc13d58e18
+        Value of i : c
+        Value of j : Hello
+        Value of k : 3.140000
+        -----------------------------
+        -----------------------------
+            20
+        20
+        00000020
+        -----------------------------
+        -----------------------------
+*/

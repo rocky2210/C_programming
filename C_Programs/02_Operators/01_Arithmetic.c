@@ -23,16 +23,17 @@ int main(){
 }
 
 /*
-Addition a + b : 14
-Subtraction a - b : 6
-Multiplication a * b : 40
-Division a / b : 2
-Modulus a % b : 2
-----------
-pre--increment: 11
-pre--decrement: 10
-post--increment: 10
-post--decrement: 11
-value of g : 10
-----------
+    Output:
+        Addition a + b : 14
+        Subtraction a - b : 6
+        Multiplication a * b : 40
+        Division a / b : 2
+        Modulus a % b : 2
+        ----------
+        pre--increment: 11
+        pre--decrement: 10
+        post--increment: 10
+        post--decrement: 11
+        value of g : 10
+        ----------
 */

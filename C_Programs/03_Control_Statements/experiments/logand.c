@@ -16,11 +16,11 @@ int main(){
     return 0;
 }
 
-// Output
 /*
-    Enter a value: 1
-    a is within 0 t 10
+    Output:
+        Enter a value: 1
+        a is within 0 t 10
 
-    Enter a value: 22
-    a is not within range 0 to 10
+        Enter a value: 22
+        a is not within range 0 to 10
 */

@@ -13,3 +13,8 @@ int main(){
     x = x * 10;
     printf("Converted data: %d\n",x);
 }
+
+/*
+    Output:
+        Converted data: 2340
+*/

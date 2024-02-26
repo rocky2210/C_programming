@@ -12,3 +12,11 @@ int main(){
 
     return 0;
 }
+
+/*
+    Output:
+        x = 10
+        X = 2.500
+        c = a
+        name = Rocky Inu
+*/
