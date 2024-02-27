@@ -12,15 +12,16 @@ int main(){
     for(i=0;i<max;i++){
         printf("%d\t",x[i]);
     }
+    printf("\n");
 }
 
 /*
     Output:
         Enter the max no.of value to insert : 4
-        23
-        3
-        4
-        5
-        The given values are:
-        23      3       4       5 
+        22
+        15
+        01
+        08
+        The given values are: 
+        22      15      1       8
 */

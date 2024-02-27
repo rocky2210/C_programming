@@ -3,7 +3,6 @@
 /*
     You can pass a structure as a function argument in the same wat as you pass any other 
     variable or pointer.
-
 */
 
 #include <stdio.h>
@@ -60,3 +59,16 @@ int main(){
 
     return 0;
 }
+
+/*
+    Output:
+        Name: Goku
+        Power level : 9000
+        Special Moves: Kamehameha,Spirit Bomb,Super saiyan
+        Name: Naruto
+        Chakra: 9999
+        Jutsu: Rasengan,Shadow Clone Jutsu
+        Name: Izuku Midoriya
+        quirk: One For All
+        Rank: 3
+*/

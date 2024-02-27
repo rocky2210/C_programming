@@ -16,3 +16,9 @@ int main()
     printf("size of Dt1 (struct): %ld bytes\n",sizeof(sd1));
     printf("size of Dt2 (union): %ld bytes\n",sizeof(ud2));
 }
+
+/*
+    Output:
+        size of Dt1 (struct): 44 bytes
+        size of Dt2 (union): 40 bytes
+*/

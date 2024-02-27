@@ -1,7 +1,15 @@
+// Array
+
+/*
+    Array:
+        an array is a collection of elements of the same data type stored in contiguous memory locations. Each element in the array is accessed by its index.
+        array are used to store multiple values in a single varaible.
+
+*/
+
 #include<stdio.h>
 int main(){
 
-        //array are used to store multiple values in a single varaible.
 
     // declaring array
     int arr[] = {10,20,30,40,50};

@@ -36,3 +36,8 @@ int main(){
     fclose(file);
     return 0;
 }
+
+/*
+    Output:
+        File not found
+*/

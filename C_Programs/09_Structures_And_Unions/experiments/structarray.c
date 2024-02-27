@@ -17,3 +17,14 @@ int main(){
         printf("P%d (x,y) is : %d,%d\n",i,p[i].x,p[i].y);
     }
 }
+
+/*
+    Output:
+        Enter x & y values:10
+        20
+        Enter x & y values:30
+        40
+        P0 (x,y) is : 10,20
+        P1 (x,y) is : 30,40
+        P2 (x,y) is : 40,60
+*/

@@ -1,5 +1,12 @@
-//enum is a special type that represents a group of constants
+// Enumeration
 
+/*
+    Enumeration:
+        enumerations, are user-defined data types in C used to assign names to integral constants, making the code more readable and maintainable.
+            Usage:
+                Enums are used to define symbolic names for integral constants, providing more meaningful identifiers for values used in the code.
+                You can declare variables of enum type, assign enum constants to them, and compare them.
+*/
 #include <stdio.h>
 
 enum Level{
@@ -36,3 +43,9 @@ int main(){
     }
     return 0;
 }
+
+/*
+    Output:
+        50
+        Two
+*/

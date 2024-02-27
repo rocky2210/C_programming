@@ -13,3 +13,9 @@ int main(){
     fclose(file);
     return 0;
 }
+
+/*
+    Output:
+        Error opening file
+        : No such file or directory
+*/

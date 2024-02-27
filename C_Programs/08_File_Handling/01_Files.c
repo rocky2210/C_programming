@@ -1,3 +1,9 @@
+// File handling
+
+/*
+    File handling:
+        File handling in C involves operations to read from and write to files
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int main(){

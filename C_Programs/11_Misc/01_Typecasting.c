@@ -19,3 +19,8 @@ int main(){
 
     return 0;
 }
+
+/*
+    Output:
+        Value of mean: 3.400000
+*/

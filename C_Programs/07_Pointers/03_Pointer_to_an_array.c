@@ -14,6 +14,11 @@ int main(){
 }
 
 /*
+    Output:
+        12345
+*/
+
+/*
     Note that when using a pointer to an array, you use the dereference operator '*'
     to access the array, and the address of operator '&' to get the address of the array.
 */

@@ -1,3 +1,15 @@
+// Malloc()
+
+/*
+    Malloc():
+        malloc() function is used to dynamically allocate memory on the heap. 
+        Dynamic memory allocation allows you to allocate memory at runtime and is often used when the size of the data to be stored is not known at compile time.
+
+        Usage:
+            The malloc() function allocates a block of memory of the specified size in bytes.
+            The returned pointer is of type void *, so it is commonly cast to the desired type.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

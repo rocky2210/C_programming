@@ -69,3 +69,16 @@ int main(){
     
     return 0;
 }
+
+/*
+    Output:
+        Name : Vegeta
+        Power Level : 8500
+        Name : Galick Gun,Final Flash,Super saiyan
+        Name: Sasuke
+        Chakra: 8000
+        Jutsu: Chidori,Susanoo
+        Name: Katsuki Bakugo
+        quirk: Explosion
+        Rank: 1
+*/

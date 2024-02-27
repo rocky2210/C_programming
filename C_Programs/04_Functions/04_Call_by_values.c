@@ -38,10 +38,12 @@ It shows that there are no changes in the values, through they had been
 changed inside the function.
 */
 
-// Output
-// Before swap, value of a : 100
-// Before swap, value of b : 200
-// Value of x = 200
-// Value of y = 100
-// After swap, value of a : 100
-// After swap, value of b : 200
+/* 
+    Output:
+        Before swap, value of a : 100
+        Before swap, value of b : 200
+        Value of x = 200
+        Value of y = 100
+        After swap, value of a : 100
+        After swap, value of b : 200
+*/

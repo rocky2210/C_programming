@@ -15,3 +15,8 @@ int sum(int k){
         return 0;
     }
 }
+
+/*
+    Output:
+        55
+*/

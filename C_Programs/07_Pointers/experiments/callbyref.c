@@ -10,3 +10,8 @@ int main(){
     printf("\n address of a: %p\n",&a);
     printf("a = %d\n",a);
 }
+
+/*
+    Output:
+        a = 100
+*/

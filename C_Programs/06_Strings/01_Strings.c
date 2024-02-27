@@ -1,3 +1,10 @@
+// String
+
+/*
+    String:
+        A string is a sequence of characters stored in an array of characters, terminated by a null character '\0'. Strings are used to represent text data in programs.
+*/
+
 #include <stdio.h>
 #include <string.h>
 
@@ -42,3 +49,18 @@ int main(){
     printf("%d\n",strcmp(str5, str7));  // Returns -4 (The strings are not equal)
     return 0;
 }
+
+/*
+    Output:
+        String: hello 
+        modified string: jello 
+        string2: hello
+        ---------------------
+        ------string functions--------
+        str1: hello
+        Length of str1 before concatenation: 5
+        Concatination str: helloworld
+        Hello world!
+        0
+        -4
+*/

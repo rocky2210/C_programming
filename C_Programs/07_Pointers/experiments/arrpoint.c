@@ -18,3 +18,11 @@ int main(){
     }
     return 0;
 }
+
+/*
+    Output:
+        address in x: 0x7ffc4aef02c4
+
+        address of a: 0x7ffc4aef02c4
+        10      20      30      40      5       
+*/

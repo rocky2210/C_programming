@@ -13,3 +13,8 @@ int main(){
 void myfunction(){
     printf("Hello world\n");
 }
+
+/*
+    Output:
+        Hello world
+*/

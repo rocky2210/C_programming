@@ -15,10 +15,10 @@ int main(){
 
 /*
     Output:
-    The value are : 
-    Value[0] = 10
-    Value[1] = 1
-    Value[2] = 2
-    Value[3] = 34
-    Value[4] = 5
+        The value are : 
+        Value[0] = 10
+        Value[1] = 1
+        Value[2] = 2
+        Value[3] = 34
+        Value[4] = 5
 */

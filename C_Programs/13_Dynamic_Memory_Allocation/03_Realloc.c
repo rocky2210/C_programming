@@ -1,3 +1,16 @@
+// Realloc()
+
+/*
+    Realloc:
+        realloc() function is used to resize a previously allocated memory block. 
+        It can be used to increase or decrease the size of the memory block
+            Usage:
+                The realloc() function resizes the memory block pointed to by ptr to the new size specified by newSize.
+                If ptr is NULL, realloc() behaves like malloc() and allocates a new memory block.
+                If newSize is smaller than the original size, the excess memory at the end of the block is released.
+                If newSize is larger than the original size, additional memory may be allocated, and the contents of the original block are copied to the new block.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

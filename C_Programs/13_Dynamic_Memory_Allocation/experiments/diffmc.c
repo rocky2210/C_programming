@@ -33,3 +33,11 @@ int main() {
     free(p);
     return 0;
 }
+
+/*
+    Output:
+        Values in *p
+        1       2       3       4       5       6       7       8
+        After reallocation 
+        1       2       3       4       5       6       7       8  10   
+*/

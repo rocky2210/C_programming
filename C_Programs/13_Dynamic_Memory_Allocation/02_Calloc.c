@@ -1,3 +1,15 @@
+// Calloc
+
+/*
+    Calloc():
+        calloc() function is used to dynamically allocate memory for an array of elements, initializing all the bytes in the allocated memory to zero.
+        It is similar to the malloc() function but additionally initializes the memory with zero values.
+
+        Usage:
+            The calloc() function allocates memory for an array of numElements elements, each of size elementSize bytes.
+            The returned pointer is of type void *, so it is commonly cast to the desired type.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -25,3 +37,12 @@ int main(){
 
     return 0;
 }
+
+/*
+    Output:
+        ptr[0] = 0
+        ptr[1] = 2
+        ptr[2] = 4
+        ptr[3] = 6
+        ptr[4] = 8
+*/

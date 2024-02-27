@@ -15,3 +15,8 @@ int main(){
     printf("Age : %u\n",age);
     return 0;
 }
+
+/*
+    Output:
+        Age : 20
+*/

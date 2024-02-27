@@ -1,4 +1,14 @@
-//structs contain many different datatypes
+//structures
+
+/*
+    Structures:
+        A structure is a user-defined data type that allows you to group together variables of different data types under a single name. 
+        Each variable within a structure is called a member or field.
+
+        Usage:
+            Structures are used to represent complex data types where you need to store multiple pieces of information together.
+            They are commonly used to represent records, such as employee records, student records, etc.
+*/
 
 #include <stdio.h>
 #include <string.h>
@@ -33,3 +43,13 @@ int main(){
 
     return 0;
 }
+
+/*
+    Output:
+        My ID is :22
+        My Letter is :L
+        My Name is :Rocky
+        My ID is :11
+        My Letter is :v
+        My Name is :vaisu
+*/

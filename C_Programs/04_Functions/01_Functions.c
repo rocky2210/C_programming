@@ -53,3 +53,17 @@ int main(){
     printf("Return value : %d\n",ret(i));
     return 0;
 }
+
+/*
+    Output:
+        hello world
+        Hello Baby
+        Your name is : inu and age is 10
+        ---------
+        10
+        20
+        30
+        40
+        50
+        Return value : 15
+*/

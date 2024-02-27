@@ -11,12 +11,16 @@ int main()
         
     c[i]='\0'; // Null-terminate the string
     
-    printf("given input is : %s",c);
+    printf("given input is : %s\n",c);
 }
 
 /*
     Output:
-    Enter the 5 chars :
-    a b c d e
-    given input is : abcde
+        Enter the 5 chars : 
+        R
+        o
+        c
+        k
+        y
+        given input is : Rocky
 */

@@ -14,3 +14,8 @@ int main(){
     P3.y = P1.y + P2.y;
     printf("P3 (x,y) : %d,%d",P3.x,P3.y);
 }
+
+/*
+    Output:
+        P3 (x,y) : 60,90
+*/

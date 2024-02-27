@@ -18,16 +18,16 @@ int main(){
         for(i=0;i<size;i++){
             scanf("%d",&a[i]);
         }
-        fun(a);
+        fun(a); // Calling function
 }
 
 
 /*
     Output:
-    Enter the no of elements to process: 4
-    Enter the values: 55
-    34
-    32
-    44
-    55      34      32      44
+        Enter the no of elements to process: 4
+        Enter the values: 22
+        15
+        1
+        8
+        22      15      1       8
 */

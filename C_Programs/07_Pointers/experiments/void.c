@@ -13,4 +13,7 @@ int main(){
     return 0;
 }
 
-// In void ptr: 10
+/*
+    Output:
+        In void ptr: 10
+*/
