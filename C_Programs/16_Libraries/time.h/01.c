@@ -1,6 +1,6 @@
 // Time functions
 
-// 1. time(): This functions returns the current calendar time (seconds since the Epoch).
+// 3. time(): This functions returns the current calendar time (seconds since the Epoch).
 
 #include <stdio.h>
 #include <time.h>
@@ -12,3 +12,8 @@ int main(){
     printf("Current time (Epoch): %ld\n",current_time);
     return 0;
 }
+
+/*
+    Output:
+        Current time (Epoch): 1709738925
+*/
